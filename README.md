@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Resleeved
-- 👀 I’m interested in learning to code and software developement, financial topics such as stocks/mutual funds, Technology, DYI projects and housing renovation
-- 🌱 I’m currently learning Python, GitHub and other Tech topics
-- 💞️ I’m looking to collaborate on developing analytical tools within financial data analysis and methods
+- 👀 I’m interested in learning about software development, Technology architecture, DYI projects such as 3d printing. 
+- 🌱 I’m currently learning to code using Python, using GitHub and systems thinking. 
+- 💞️ I’m looking to collaborate on developing analytical tools for data analysis and visualization.  
 - 📫 How to reach me: Send PM
 
 <!---
